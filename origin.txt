@@ -1,0 +1,364 @@
+Uri: https://alfarewards.club/
+File Name: E:\New folder\alfarewards.club\index.htm
+Content Type: text/html
+
+Uri: https://alfarewards.club/favicon.ico
+File Name: E:\New folder\alfarewards.club\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://alfarewards.club/styles/main.css
+File Name: E:\New folder\alfarewards.club\styles\main.css
+Content Type: text/css
+
+Uri: https://alfarewards.club/styles/all.css
+File Name: E:\New folder\alfarewards.club\styles\all.css
+Content Type: text/css
+
+Uri: https://alfarewards.club/?a=signup
+File Name: E:\New folder\alfarewards.club\index-1.htm
+Content Type: text/html
+
+Uri: https://alfarewards.club/?a=login
+File Name: E:\New folder\alfarewards.club\index-2.htm
+Content Type: text/html
+
+Uri: https://alfarewards.club/?a=home
+File Name: E:\New folder\alfarewards.club\index-3.htm
+Content Type: text/html
+
+Uri: https://alfarewards.club/?a=cust&page=about
+File Name: E:\New folder\alfarewards.club\index-4.htm
+Content Type: text/html
+
+Uri: https://alfarewards.club/?a=cust&page=plans
+File Name: E:\New folder\alfarewards.club\index-5.htm
+Content Type: text/html
+
+Uri: https://alfarewards.club/?a=news
+File Name: E:\New folder\alfarewards.club\index-6.htm
+Content Type: text/html
+
+Uri: https://alfarewards.club/?a=faq
+File Name: E:\New folder\alfarewards.club\index-7.htm
+Content Type: text/html
+
+Uri: https://alfarewards.club/?a=rules
+File Name: E:\New folder\alfarewards.club\index-8.htm
+Content Type: text/html
+
+Uri: https://alfarewards.club/?a=support
+File Name: E:\New folder\alfarewards.club\index-9.htm
+Content Type: text/html
+
+Uri: https://alfarewards.club/scripts/jquery-3.3.1.min.js
+File Name: E:\New folder\alfarewards.club\scripts\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://alfarewards.club/scripts/time.js
+File Name: E:\New folder\alfarewards.club\scripts\time.js
+Content Type: application/javascript
+
+Uri: https://alfarewards.club/scripts/calcs.js
+File Name: E:\New folder\alfarewards.club\scripts\calcs.js
+Content Type: application/javascript
+
+Uri: https://alfarewards.club/imgs/icon1.png
+File Name: E:\New folder\alfarewards.club\imgs\icon1.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/icon2.png
+File Name: E:\New folder\alfarewards.club\imgs\icon2.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/icon3.png
+File Name: E:\New folder\alfarewards.club\imgs\icon3.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/icon4.png
+File Name: E:\New folder\alfarewards.club\imgs\icon4.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/icon5.png
+File Name: E:\New folder\alfarewards.club\imgs\icon5.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/images/18.png
+File Name: E:\New folder\alfarewards.club\images\18.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/images/43.png
+File Name: E:\New folder\alfarewards.club\images\43.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/security-comodo.png
+File Name: E:\New folder\alfarewards.club\imgs\security-comodo.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/security-guard.png
+File Name: E:\New folder\alfarewards.club\imgs\security-guard.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/ps1.png
+File Name: E:\New folder\alfarewards.club\imgs\ps1.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/ps2.png
+File Name: E:\New folder\alfarewards.club\imgs\ps2.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/ps3.png
+File Name: E:\New folder\alfarewards.club\imgs\ps3.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/ps4.png
+File Name: E:\New folder\alfarewards.club\imgs\ps4.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/ps5.png
+File Name: E:\New folder\alfarewards.club\imgs\ps5.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/ps6.png
+File Name: E:\New folder\alfarewards.club\imgs\ps6.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/ps7.png
+File Name: E:\New folder\alfarewards.club\imgs\ps7.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/ps8.png
+File Name: E:\New folder\alfarewards.club\imgs\ps8.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/select-down.png
+File Name: E:\New folder\alfarewards.club\imgs\select-down.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/ai-bg.jpg
+File Name: E:\New folder\alfarewards.club\imgs\ai-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://alfarewards.club/imgs/logo.png
+File Name: E:\New folder\alfarewards.club\imgs\logo.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/main-bg.png
+File Name: E:\New folder\alfarewards.club\imgs\main-bg.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/ai-face.png
+File Name: E:\New folder\alfarewards.club\imgs\ai-face.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/button-arrow.png
+File Name: E:\New folder\alfarewards.club\imgs\button-arrow.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/morph1.png
+File Name: E:\New folder\alfarewards.club\imgs\morph1.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/morph2.png
+File Name: E:\New folder\alfarewards.club\imgs\morph2.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/morph3.png
+File Name: E:\New folder\alfarewards.club\imgs\morph3.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/shape-top.png
+File Name: E:\New folder\alfarewards.club\imgs\shape-top.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/morph4.png
+File Name: E:\New folder\alfarewards.club\imgs\morph4.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/build.png
+File Name: E:\New folder\alfarewards.club\imgs\build.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/logo2.png
+File Name: E:\New folder\alfarewards.club\imgs\logo2.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/stat-title.png
+File Name: E:\New folder\alfarewards.club\imgs\stat-title.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/morph5.png
+File Name: E:\New folder\alfarewards.club\imgs\morph5.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/aff-bg.png
+File Name: E:\New folder\alfarewards.club\imgs\aff-bg.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/aff-graph.png
+File Name: E:\New folder\alfarewards.club\imgs\aff-graph.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/security-bg.png
+File Name: E:\New folder\alfarewards.club\imgs\security-bg.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/security-lock.png
+File Name: E:\New folder\alfarewards.club\imgs\security-lock.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/inv-bg.jpg
+File Name: E:\New folder\alfarewards.club\imgs\inv-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://alfarewards.club/imgs/acc-bg.png
+File Name: E:\New folder\alfarewards.club\imgs\acc-bg.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/azaz.png
+File Name: E:\New folder\alfarewards.club\imgs\azaz.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/tuc.png
+File Name: E:\New folder\alfarewards.club\imgs\tuc.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/footer-bg.png
+File Name: E:\New folder\alfarewards.club\imgs\footer-bg.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/imgs/footer-head.png
+File Name: E:\New folder\alfarewards.club\imgs\footer-head.png
+Content Type: image/png
+
+Uri: https://alfarewards.club/webfonts/fa-brands-400.eot
+File Name: E:\New folder\alfarewards.club\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alfarewards.club/webfonts/fa-brands-400d41dd41d.eot?
+File Name: E:\New folder\alfarewards.club\webfonts\fa-brands-400d41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alfarewards.club/webfonts/fa-brands-400.woff2
+File Name: E:\New folder\alfarewards.club\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://alfarewards.club/webfonts/fa-brands-400.woff
+File Name: E:\New folder\alfarewards.club\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://alfarewards.club/webfonts/fa-brands-400.ttf
+File Name: E:\New folder\alfarewards.club\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://alfarewards.club/webfonts/fa-brands-400.svg
+File Name: E:\New folder\alfarewards.club\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://alfarewards.club/webfonts/fa-light-300.eot
+File Name: E:\New folder\alfarewards.club\webfonts\fa-light-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alfarewards.club/webfonts/fa-light-300d41dd41d.eot?
+File Name: E:\New folder\alfarewards.club\webfonts\fa-light-300d41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alfarewards.club/webfonts/fa-light-300.woff2
+File Name: E:\New folder\alfarewards.club\webfonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://alfarewards.club/webfonts/fa-light-300.woff
+File Name: E:\New folder\alfarewards.club\webfonts\fa-light-300.woff
+Content Type: font/woff
+
+Uri: https://alfarewards.club/webfonts/fa-light-300.ttf
+File Name: E:\New folder\alfarewards.club\webfonts\fa-light-300.ttf
+Content Type: font/ttf
+
+Uri: https://alfarewards.club/webfonts/fa-light-300.svg
+File Name: E:\New folder\alfarewards.club\webfonts\fa-light-300.svg
+Content Type: image/svg+xml
+
+Uri: https://alfarewards.club/webfonts/fa-regular-400.eot
+File Name: E:\New folder\alfarewards.club\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alfarewards.club/webfonts/fa-regular-400d41dd41d.eot?
+File Name: E:\New folder\alfarewards.club\webfonts\fa-regular-400d41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alfarewards.club/webfonts/fa-regular-400.woff2
+File Name: E:\New folder\alfarewards.club\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://alfarewards.club/webfonts/fa-regular-400.woff
+File Name: E:\New folder\alfarewards.club\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://alfarewards.club/webfonts/fa-regular-400.ttf
+File Name: E:\New folder\alfarewards.club\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://alfarewards.club/webfonts/fa-regular-400.svg
+File Name: E:\New folder\alfarewards.club\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://alfarewards.club/webfonts/fa-solid-900.eot
+File Name: E:\New folder\alfarewards.club\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alfarewards.club/webfonts/fa-solid-900d41dd41d.eot?
+File Name: E:\New folder\alfarewards.club\webfonts\fa-solid-900d41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alfarewards.club/webfonts/fa-solid-900.woff2
+File Name: E:\New folder\alfarewards.club\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://alfarewards.club/webfonts/fa-solid-900.woff
+File Name: E:\New folder\alfarewards.club\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://alfarewards.club/webfonts/fa-solid-900.ttf
+File Name: E:\New folder\alfarewards.club\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://alfarewards.club/webfonts/fa-solid-900.svg
+File Name: E:\New folder\alfarewards.club\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://alfarewards.club/?a=forgot_password
+File Name: E:\New folder\alfarewards.club\index-10.htm
+Content Type: text/html
+
+Uri: https://alfarewards.club/imgs/about-1.jpg
+File Name: E:\New folder\alfarewards.club\imgs\about-1.jpg
+Content Type: image/jpeg
+
+Uri: https://alfarewards.club/imgs/about-2.jpg
+File Name: E:\New folder\alfarewards.club\imgs\about-2.jpg
+Content Type: image/jpeg
+
+Uri: https://alfarewards.club/?a=account
+File Name: E:\New folder\alfarewards.club\index-11.htm
+Content Type: text/html
+
+Uri: https://alfarewards.club/?a=earnings
+File Name: E:\New folder\alfarewards.club\index-12.htm
+Content Type: text/html
+
+Uri: https://alfarewards.club/?a=edit_account
+File Name: E:\New folder\alfarewards.club\index-13.htm
+Content Type: text/html
+
+Uri: https://alfarewards.club/?a=referals
+File Name: E:\New folder\alfarewards.club\index-14.htm
+Content Type: text/html
+
+Uri: https://alfarewards.club/?a=referallinks
+File Name: E:\New folder\alfarewards.club\index-15.htm
+Content Type: text/html
+
+Uri: https://alfarewards.club/imgs/hands.png
+File Name: E:\New folder\alfarewards.club\imgs\hands.png
+Content Type: image/png
+
